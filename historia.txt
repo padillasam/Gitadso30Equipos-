@@ -1,5 +1,6 @@
 Todo comenzó el 17 de abril de los corrientes al inicio del II trimestre del año y de la formación.
 
-# APORTE DE CRISTIAN
+# APORTE DE CRISTIAN y JOHANA
 
 La competencia asociada al trimestre tiene el objetivo de aprender P.O.O en python. 
+La idea es conectar un backend con una BD intentando aplicar el patrón MVC
