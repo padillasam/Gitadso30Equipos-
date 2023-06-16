@@ -4,3 +4,7 @@ Todo comenzó el 17 de abril de los corrientes al inicio del II trimestre del a�
 
 La competencia asociada al trimestre tiene el objetivo de aprender P.O.O en python. 
 La idea es conectar un backend con una BD intentando aplicar el patrón MVC
+
+# APORTE DE MICHELL
+
+La competencia asociada al trimestre tiene el objetivo de aprender PROGRAMACIÓN ORIENTADA A OBJETOS en python VERSION 3.10 
