@@ -8,3 +8,6 @@ La idea es conectar un backend con una BD intentando aplicar el patrón MVC
 # APORTE DE MICHELL
 
 La competencia asociada al trimestre tiene el objetivo de aprender PROGRAMACIÓN ORIENTADA A OBJETOS en python VERSION 3.10 
+
+Esta formación es cadena de formación por tanto los aprendices vienen muy bien preparados para desarrollar software
+
