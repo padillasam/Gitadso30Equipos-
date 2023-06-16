@@ -1,1 +1,5 @@
 Todo comenzó el 17 de abril de los corrientes al inicio del II trimestre del año y de la formación.
+
+# APORTE DE CRISTIAN
+
+La competencia asociada al trimestre tiene el objetivo de aprender P.O.O en python. 
